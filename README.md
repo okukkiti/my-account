@@ -1,1 +1,1 @@
-get my account info
+get my account info like password
